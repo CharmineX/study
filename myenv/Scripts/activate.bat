@@ -1,4 +1,4 @@
-@set "VIRTUAL_ENV=C:\Users\boedh\OneDrive\Bureaublad\myenv"
+@set "VIRTUAL_ENV=C:\Users\CharmineX\Desktop\study\myenv"
 
 @set "VIRTUAL_ENV_PROMPT="
 @if NOT DEFINED VIRTUAL_ENV_PROMPT (
